@@ -1,0 +1,23 @@
+{
+  "name": "clickingGame",
+  "version": "1.0.0",
+  "description": "## Created by Christie Byrne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byrnec/clickingGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byrnec/clickingGame/issues"
+  },
+  "homepage": "https://github.com/byrnec/clickingGame#readme",
+  "dependencies": {
+    "yarn": "^1.13.0"
+  }
+}
