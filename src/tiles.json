@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Weiner",
+      "image":
+        "./img/weiner.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Bezos",
+      "image":
+        "./img/bezos.jpg",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Bill Gates",
+      "image":
+        "./img/bill-gates.jpg",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Chopra",
+      "image":
+        "./img/chopra.jpg",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Mandela",
+      "image":
+        "./img/mandela.jpg",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Merkel",
+      "image":
+        "./img/merkel.jpg",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Musk",
+      "image":
+        "./img/musk.jpg",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Brene",
+      "image":
+        "./img/brene.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Obama",
+      "image":
+      "./img/obama.jpg",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Pope",
+      "image":
+      "./src/img/pope.jpg",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Jobs",
+      "image":
+        "./src/img/s-jobs.jpg",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Zuck",
+      "image":
+        "./src/img/zuck.jpg",
+        "clicked": false
+    }
+]
+  
